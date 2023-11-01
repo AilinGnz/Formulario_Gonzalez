@@ -1,0 +1,33 @@
+
+body {
+    color: gray;
+    background: linear-gradient( rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+h1{
+    font-family: fantasy;
+    text-align: center;
+    font-size: xx-large;
+    color : rgb(148,187,233,1);
+}
+
+ button{
+    background-color: rgba(148,187,233,1);
+    color: white;
+    border-radius: 10%;
+    border-color: lightblue;
+    
+ }
+
+ .text-center {
+    display: flex;
+    justify-content: center;
+}
